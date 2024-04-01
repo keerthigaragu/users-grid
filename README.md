@@ -15,7 +15,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 UI on page will look like below where any user can be deleted and the location of the user can be updated.
-<img width="837" alt="Screen Shot 2024-03-30 at 12 02 20 PM" src="https://github.com/keerthigaragu/users-grid/assets/19683558/6162a711-c51e-4548-958b-ad3b96458394">
+<img width="1214" alt="Screen Shot 2024-04-01 at 9 13 24 PM" src="https://github.com/keerthigaragu/users-grid/assets/19683558/a2862540-9e1a-404a-a862-ec8cce3eab9d">
 
 ### `npm test`
 
