@@ -1,0 +1,12 @@
+#location-select {
+    width: 100%;
+    background-color: #fff;
+}
+  
+#location-select:focus {
+    border-color: #1976d2;
+}
+  
+input {
+    width: 100%;
+}
